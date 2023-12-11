@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.banner {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+}
+
+.content {
+  margin: 20px;
+}
